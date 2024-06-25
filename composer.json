@@ -1,12 +1,12 @@
 {
-    "name": "xhieudev/scramble",
+    "name": "dedoc/scramble",
     "description": "Automatic generation of API documentation for Laravel applications.",
     "keywords": [
         "laravel",
         "documentation",
         "openapi"
     ],
-    "homepage": "https://github.com/vxhieu/ScrambleCompatible",
+    "homepage": "https://github.com/dedoc/scramble",
     "license": "MIT",
     "authors": [
         {
